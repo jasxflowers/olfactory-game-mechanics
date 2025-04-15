@@ -1,0 +1,21 @@
+Mechanic,Olfactory_Count,NonOlfactory_Count,Chi2,p-adj,Significance
+Emanating,7,164,180.39,1.5 × 10⁻³⁹,***
+Identifying,128,34,97.57,9.9 × 10⁻²²,***
+Damaging,3,97,91.69,1.3 × 10⁻²⁰,***
+Buffing,4,69,55.39,9.4 × 10⁻¹³,***
+Matching,47,4,45.33,1.3 × 10⁻¹⁰,***
+Memorizing,37,3,34.86,2.2 × 10⁻⁸,***
+Labeling,26,0,29.26,3.4 × 10⁻⁷,***
+Experiencing,44,11,26.24,1.4 × 10⁻⁶,***
+Reflexing,2,34,24.29,3.5 × 10⁻⁶,***
+Discriminating,29,4,22.50,8.0 × 10⁻⁶,***
+Composing,19,1,17.69,9.0 × 10⁻⁵,***
+Rewarding,16,0,16.84,1.3 × 10⁻⁴,***
+Signaling,10,42,16.04,1.8 × 10⁻⁴,***
+Luring,1,22,15.44,2.3 × 10⁻⁴,***
+Enchanting,0,14,10.65,2.8 × 10⁻³,**
+Repelling,1,14,8.26,9.6 × 10⁻³,**
+Localising,14,35,6.20,2.7 × 10⁻²,*
+Negotiating,7,0,6.13,2.7 × 10⁻²,*
+Racing,7,0,6.13,2.7 × 10⁻²,*
+Randomising,6,0,4.98,4.9 × 10⁻²,*
