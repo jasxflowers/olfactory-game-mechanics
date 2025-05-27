@@ -53,7 +53,7 @@ All figures (e.g., violin plots, PCA cluster maps) and summary tables (e.g., top
 If you use this code, data, or figures, please cite the paper:
 
 > Brooks, J., & Niedenthal, S. (2025). *Mechanics of Scent: Mapping Olfactory Play*.
-> [DOI / preprint URL – if available]
+> [not published yet]
 
 ---
 
