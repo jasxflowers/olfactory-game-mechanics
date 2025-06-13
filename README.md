@@ -1,10 +1,10 @@
 # Mechanics of Scent: Mapping Olfactory Play
 
-This repository contains the data analysis code and supporting materials for the paper:
+This repository contains the data analysis code and supporting materials for the paper. NOTE: This paper is currently under submission to _ACM Transactions on Computer-Human Interaction_ (TOCHI).
 
 **Brooks, J., & Niedenthal, S. (2025). _Mechanics of Scent: Mapping Olfactory Play_.**
 
-The project explores olfactory interaction in olfactory and non-olfactory games through the lens of game mechanics. It includes a structured dataset of over 500 games, statistical and cluster analyses, and visualizations of how scent-based mechanics differ across olfactory and non-olfactory games.
+The project explores olfactory interaction in olfactory and non-olfactory games through the lens of game mechanics. It includes a structured dataset of over 500 games, statistical and cluster analyses, and visualizations of how scent-based mechanics differ across olfactory and non-olfactory games. A preprint version is available on arXiv: arXiv:xxxx.xxxxx. Please cite the arXiv version if referencing this work.
 
 ---
 
@@ -53,6 +53,7 @@ All figures (e.g., violin plots, PCA cluster maps) and summary tables (e.g., top
 If you use this code, data, or figures, please cite the paper:
 
 > Brooks, J., & Niedenthal, S. (2025). *Mechanics of Scent: Mapping Olfactory Play*.
+> arXiv preprint arXiv:
 > [not published yet]
 
 ---
@@ -63,9 +64,3 @@ Questions, feedback, or interested in collaboration?
 
 - Jas Brooks (jasbrooks@uchicago.edu)  
 - Simon Niedenthal (simon.niedenthal@mau.se)
-
----
-
-## 🧠 Acknowledgments
-
-Acknowledgments here.
