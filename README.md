@@ -13,9 +13,11 @@ The project explores olfactory interaction in olfactory and non-olfactory games 
 ```bash
 ├── Cleaned_Olfactory_Analysis.ipynb  # Cleaned, publication-aligned analysis notebook
 ├── Data/
-│   ├── olfactory_games.csv       # Dataset of olfactory games
-│   ├── non_olfactory_games.csv   # Dataset of non-olfactory games
-│   └── mechanics_matrix.csv      # Binary matrix of game-mechanic mappings
+│   ├── Olfactory_Games_2025-04-14b.csv  # Dataset of olfactory games
+│   ├── Tabletop_Games_2025-03-29.csv    # Dataset of non-olfactory tabletop games
+│   ├── Video_Games_2025-03-29.csv       # Dataset of non-olfactory video games
+│   ├── Other_Games_2025-03-29.csv       # Dataset of misc. non-olfactory games
+│   └── Mechanics_2025-04-14.csv         # Binary matrix of game-mechanic mappings
 ├── Plots/
 │   ├── figure4_players_smells.png
 │   ├── figure5_specificity_flexibility.png
