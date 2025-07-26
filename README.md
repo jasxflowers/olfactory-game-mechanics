@@ -62,5 +62,5 @@ If you use this code, data, or figures, please cite the paper:
 
 Questions, feedback, or interested in collaboration?
 
-- Jas Brooks (jasbrooks@uchicago.edu)  
-- Simon Niedenthal (simon.niedenthal@mau.se)
+- Jas Brooks, MIT CSAIL (jasb@mit.edu)  
+- Simon Niedenthal, Malmö University (simon.niedenthal@mau.se)
